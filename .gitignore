@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+cert-script
+cert-script.pub
