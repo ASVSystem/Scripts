@@ -1,0 +1,546 @@
+INSERT  ALL 
+INTO PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+VALUES (	401	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1920	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+
+INTO PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values(	402	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1921	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	403	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1922	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	404	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1923	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	405	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1924	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	406	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1927	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	407	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1928	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	408	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1929	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	409	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3117	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	410	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3118	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	411	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3119	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	412	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3120	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	413	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3123	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	414	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3125	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	415	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3127	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	416	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3129	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	417	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3132	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	418	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3133	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	419	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3134	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	420	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3135	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	421	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3136	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	422	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3141	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	423	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	5734	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	424	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3142	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	425	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3143	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	426	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3144	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	427	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3147	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	428	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3149	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	429	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3150	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	430	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3159	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	431	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3162	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	432	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3167	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	433	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3168	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	434	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3169	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	435	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3170	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	436	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3171	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	437	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1461	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	438	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3881	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	439	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3882	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	440	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3883	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	441	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3884	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	442	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3885	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	443	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3887	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	444	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3888	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	445	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3890	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	446	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3891	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	447	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3892	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	448	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3893	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	449	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3896	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	450	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3897	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	451	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3898	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	452	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3899	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	453	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3900	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	454	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3901	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	455	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3902	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	456	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3903	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	457	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3904	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	458	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	4305	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	459	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	4306	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	460	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	4308	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	461	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2096	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	462	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3235	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	463	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3243	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	464	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3246	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	465	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2260	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	466	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2262	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	467	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2263	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	468	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2870	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	469	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3405	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	470	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3410	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	471	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3411	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	472	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3412	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	473	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3413	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	474	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1727	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	475	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1730	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	476	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1731	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	477	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1732	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	478	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1733	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	479	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1734	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	480	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1737	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	481	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1741	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	482	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1742	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	483	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1743	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	484	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1746	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	485	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2872	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	486	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2873	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	487	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2874	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	488	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2875	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	489	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2876	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	490	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2877	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	491	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2878	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	492	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2879	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	493	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3418	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	494	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3421	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	495	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3422	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	496	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3423	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	497	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3424	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	498	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3426	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	499	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3427	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	500	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3428	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	501	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3429	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	502	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3430	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	503	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3432	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	504	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3433	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	505	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2338	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	506	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2339	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	507	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2343	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	508	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2344	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	509	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2345	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	510	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2347	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	511	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2349	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	512	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2882	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	513	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2893	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	514	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2894	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	515	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2895	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	516	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2896	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	517	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2898	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	518	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2899	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	519	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2900	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	520	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2902	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	521	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2904	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	522	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1673	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	523	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1674	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	524	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1675	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	525	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1676	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	526	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1677	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	527	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1682	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	528	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	1683	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	529	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2212	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	530	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2218	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	531	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2219	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	532	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2221	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	533	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2224	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	534	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	2225	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	535	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3260	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+INTO
+PROC_INTERNO_INTEGRACAO(nr_sequencia, dt_atualizacao, nm_usuario, dt_atualizacao_nrec, nm_usuario_nrec, nr_seq_proc_interno, nr_seq_sistema_integ, cd_estabelecimento,cd_integracao,cd_procedimento, ie_origem_proced,cd_tipo_procedimento, ie_utiliza_estab)
+values
+(	536	,	sysdate	,	'PACS'	,	SYSDATE	,	'PACS'	,	3211	,	11	,	1	,	NULL	,	NULL	,	1	,	NULL	,	'N'	)
+
+SELECT * FROM DUAL
+;

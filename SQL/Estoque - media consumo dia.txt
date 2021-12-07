@@ -1,0 +1,12 @@
+--SELECT * FROM EIS_SALDO_ESTOQUE_V
+--WHERE TRUNC(dt_referencia) = '01/01/2018'
+--AND cd_material = 11231
+
+
+SELECT sum(qt_movimento)/(SYSDATE - to_DATE('01/01/2018' , 'dd/mm/yyyy' )) media_consumo_dia,
+sum(qt_movimento) total_movimento
+
+FROM MOVIMENTO_ESTOQUE_V2
+WHERE CD_MATERIAL_ESTOQUE = 11231
+AND CD_OPERACAO_ESTOQUE = 4
+AND TRUNC(DT_MESANO_REFERENCIA) = '01/01/2018'

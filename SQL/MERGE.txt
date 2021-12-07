@@ -1,0 +1,29 @@
+BEGIN TRANSACTION
+
+MERGE dbo.FactBuyingHabits AS Destino
+
+USING dbo.Purchases AS Origem
+
+--Condição: O produto existe nas 2 tabelas e o cliente também
+
+ON (Destino.ProductID = Origem.ProductID AND Destino.CustomerID = Origem.CustomerID)
+
+--Se a condição for obedecida, ou seja, existem registros nas duas tabelas
+
+WHEN MATCHED THEN
+
+    UPDATE SET Destino.LastPurchaseDate = Origem.PurchaseDate
+
+--Se a condição não foi obedecida porque o registro não existe na tabela de destino
+
+WHEN NOT MATCHED BY TARGET THEN
+
+    INSERT (CustomerID, ProductID, LastPurchaseDate)
+
+    VALUES (Origem.CustomerID, Origem.ProductID, Origem.PurchaseDate)
+
+OUTPUT $action, Inserted.*, Deleted.*;
+
+ROLLBACK TRANSACTION --nos testes use o rolloback até ter certeza que o comando está ok. Depois do teste comente esta linha!
+
+--COMMIT TRANSACTION -- só depois de testar, remova o comentário desta linha.
